@@ -11,7 +11,6 @@
 * @next: pointer to the next node
 *
 * Description: singly linked node structure
-* for Holberton project.
 */
 typedef struct listint_s
 {
